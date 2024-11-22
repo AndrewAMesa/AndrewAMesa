@@ -44,19 +44,6 @@ I am a 4th-year Computer Science and Data Science Student studying at Worcester 
 
 ---
 
-### My Stats :
-<div>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AndrewAMesa&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-</div>
-<div style="margin-top: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAMesa&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-  </a>
-</div>
-
----
 
 ### Publications :
 - [**Improving Brand Recognition and Association for Poetry Organizations**](https://digital.wpi.edu/show/m039k912r)
