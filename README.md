@@ -59,3 +59,8 @@ I am a 4th-year Computer Science and Data Science Student studying at Worcester 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAMesa&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
 </div>
+
+---
+
+### Publications :
+- [**Improving Brand Recognition and Association for Poetry Organizations**](https://digital.wpi.edu/show/m039k912r)
