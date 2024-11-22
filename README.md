@@ -1,11 +1,7 @@
 <div align="center" style="margin: 0; padding: 0;">
   <div id="badges" style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 0; padding: 0;">
-    <a href="https://www.linkedin.com/in/andrew-a-mesa/" style="text-decoration: none; border: none; margin: 0; padding: 0;">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@Andy_Table" style="text-decoration: none; border: none; margin: 0; padding: 0;">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/andrew-a-mesa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.youtube.com/@Andy_Table"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
   </div>
 
   <h1 style="margin: 0; padding: 0; text-decoration: none;">
