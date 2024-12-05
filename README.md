@@ -12,7 +12,7 @@
 
 ### About Me :
 I am a 4th-year Computer Science and Data Science Student studying at Worcester Polytechnic Institute.
-- :man_student: I’m finishing up my final year of university and looking for full-time software engineering opportunities.
+- :man_student: I’m finishing up my final year of university.
 
 - :robot: I have been exploring Artificial Intelligence and Machine Learning topics in my final year of University.
 
