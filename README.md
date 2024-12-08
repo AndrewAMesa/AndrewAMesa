@@ -46,4 +46,5 @@ I am a 4th-year Computer Science and Data Science Student studying at Worcester 
 
 
 ### Publications :
-- [**Improving Brand Recognition and Association for Poetry Organizations**](https://digital.wpi.edu/show/m039k912r)
+- [**Improving Brand Recognition and Association for Poetry Organizations (2024)**](https://digital.wpi.edu/show/m039k912r)
+- [**Permanent Housing in Mindoro, Philippines (2021)**](https://digital.wpi.edu/concern/student_works/p8418r61f?locale=en)
