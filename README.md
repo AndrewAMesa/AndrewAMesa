@@ -16,7 +16,7 @@ I am a 4th-year Computer Science and Data Science Student studying at Worcester 
 
 - :robot: I have been exploring Artificial Intelligence and Machine Learning topics in my final year of University.
 
-- :camping: In my free time, I enjoy camping, hiking, cooking, and creating digital art.
+- :camping: In my free time, I enjoy camping, hiking, cooking, and drawing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-a-mesa/) or **aamesa03@gmail.com**
 
