@@ -12,7 +12,7 @@
 
 ### About Me :
 I am a 4th-year Computer Science and Data Science Student studying at Worcester Polytechnic Institute.
-- :man_student: I’m finishing up my final year of university, and after graduation, I will be joining Datadog as a Software Engineer.
+- :man_student: I’m finishing up my final year of university, and after graduation, I will be joining Datadog as a Software Engineer I.
 
 - :robot: I have been exploring artificial intelligence and machine learning topics during my final year at university.
 
