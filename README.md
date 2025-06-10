@@ -48,6 +48,6 @@ I am a 4th-year Computer Science and Data Science Student studying at Worcester 
 
 
 ### Publications :
-- [**Dual-Mode Language-Model Mobile Assistant: A Multilingual Application Integrated with InnoSpire Glasses for Supporting Visually Impaired and Blind Individuals (2025)**]([https://digital.wpi.edu/concern/student_works/p8418r61f?locale=en](https://digital.wpi.edu/show/8p58pj03v))
+- [**Dual-Mode Language-Model Mobile Assistant: A Multilingual Application Integrated with InnoSpire Glasses for Supporting Visually Impaired and Blind Individuals (2025)**](https://digital.wpi.edu/show/8p58pj03v)
 - [**Improving Brand Recognition and Association for Poetry Organizations (2024)**](https://digital.wpi.edu/show/m039k912r)
 - [**Permanent Housing in Mindoro, Philippines (2021)**](https://digital.wpi.edu/concern/student_works/p8418r61f?locale=en)
