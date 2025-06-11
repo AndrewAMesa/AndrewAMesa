@@ -14,7 +14,7 @@
 I am an upcoming Software Engineer I at Datadog who will be working out of their NYC office.
 
 - :man_student: I earned a Bachelor of Science in Computer Science and Data Science from Worcester Polytechnic Institute.
-- 
+  
 - :robot: I have been exploring artificial intelligence and machine learning topics during my final year at university.
 
 - :camping: In my free time, I enjoy camping, hiking, cooking, and drawing.
