@@ -15,7 +15,7 @@ I am an upcoming Software Engineer I at Datadog who will be working out of their
 
 - :man_student: I earned a Bachelor of Science in Computer Science and Data Science from Worcester Polytechnic Institute.
   
-- :robot: I explored artificial intelligence and machine learning topics during my final year at university, especially in my Capstone Project titled "A  Multilingual Application Integrated with InnoSpire Glasses for Supporting Visually Impaired and Blind Individuals".
+- :robot: I explored artificial intelligence and machine learning topics during my final year at university, such as in my Capstone Project titled "A  Multilingual Application Integrated with InnoSpire Glasses for Supporting Visually Impaired and Blind Individuals".
 
 - :camping: In my free time, I enjoy camping, hiking, cooking, and drawing.
 
