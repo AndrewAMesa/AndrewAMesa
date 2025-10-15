@@ -11,7 +11,7 @@
 </div>
 
 ### About Me :
-I am an incoming Software Engineer I at Datadog who will be working out of their NYC office.
+I am an Software Engineer at Datadog working out of their NYC office.
 
 - :man_student: I earned a Bachelor of Science in Computer Science and Data Science from Worcester Polytechnic Institute.
   
